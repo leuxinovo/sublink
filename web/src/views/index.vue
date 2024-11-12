@@ -3,11 +3,8 @@
     <el-card class="box-card">
       <div slot="header" class="clearfix">
         <div>
-          <span style="margin-right: 10px">订阅生成管理系统 {{ ver }}</span>
-          <el-button icon="el-icon-s-promotion" size="mini" @click="handleOpenUrl('https://t.me/+u6gLWF0yP5NiZWQ1')">群组
-          </el-button>
-          <el-button size="mini" @click="handleOpenUrl('https://github.com/jaaksii/sublink')">
-            <span class="iconfont icon-githubb"></span> 开源
+          <span style="margin-right: 10px">Leu订阅生成系统 {{ ver }}</span>
+          <el-button icon="el-icon-s-promotion" size="mini" @click="handleOpenUrl('http://music.163.com/playlist/5445814955/306679531?userid=306679531')">网易云歌单
           </el-button>
         </div>
       </div>
